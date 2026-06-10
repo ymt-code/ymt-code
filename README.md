@@ -1,7 +1,11 @@
-<h1 align="center">⚡ Hey, I'm Yousef Motallebi</h1>
+<h1 align="center">Hello there! Nice to see you on my GitHub! 👋</h1>
 
 <p align="center">
-  <img src="./assets/ymtcode.gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=<+Yousef+Motallebi+/+>;" />
+</p>
+
+<p align="center">
+  <img src="./assets/ymtcode.gif" width="500" />
 </p>
 
 ---
@@ -15,8 +19,8 @@ const developer = {
   focus: "Scalable backend systems & clean architecture",
   stack: ["Node.js", "NestJS", "TypeScript", "PostgreSQL", "Redis", "Docker"],
   currently: {
-    learning: "System Design & Distributed Systems",
-  }
+    learning: "System Design",
+  },
 };
 ```
 
@@ -39,19 +43,13 @@ const developer = {
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ymt-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymt-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymt-code&theme=tokyonight"
+    width="100%"
+    alt="Profile Details"
   />
 </p>
-
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ymt-code&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-  />
+  <img src="https://img.shields.io/badge/Location-Miyaneh%2C%20Iran-2496ED?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -67,7 +65,7 @@ const developer = {
 
 ---
 
-### 📬 Connect With Me
+### 🌐 Find Me On
 
 <p align="center">
   <a href="https://t.me/yosef_844">
